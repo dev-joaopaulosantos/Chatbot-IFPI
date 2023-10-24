@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "main_category": "clima",
+    "questions": [
+      "Como está o tempo hoje?",
+      "Qual é a previsão do tempo?",
+      "Está chovendo ou fazendo sol?"
+    ],
+    "answer": "O tempo hoje está nublado, com possibilidade de chuva à tarde."
+  },
+  {
+    "id": "2",
+    "main_category": "temperatura",
+    "questions": [
+      "Qual é a temperatura agora?",
+      "Está frio ou calor?",
+      "Quanto graus está fazendo?"
+    ],
+    "answer": "A temperatura agora é de 25 graus Celsius, com sensação térmica de 27."
+  }
+]
